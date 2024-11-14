@@ -1,0 +1,19 @@
+Start program: 2024-10-18T22:49:15.010859600
+add, ID = 0, 141700
+add, ID = 1, 2000
+add, ID = 2, 600
+add, ID = 3, 600
+add, ID = 4, 500
+add, ID = 5, 500
+add, ID = 6, 400
+add, ID = 7, 400
+add, ID = 8, 400
+add, ID = 9, 400
+remove, ID = 9, 13200
+addTotalCount = 10
+addTotalTime = 147500
+addMedianTime = 14750
+removeTotalCount = 1
+removeTotalTime = 13200
+removeMedianTime = 13200
+Finish program: 2024-10-18T22:49:15.012055400
